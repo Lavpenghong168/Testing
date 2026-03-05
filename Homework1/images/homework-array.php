@@ -89,7 +89,7 @@ $description = $pages[$page][2];
     <h2><?php echo $title; ?></h2>
     <p><?php echo $description; ?></p>
 </div>
-<footer>  © 2026 Copyright: Hong Bunleab</footer>
+<footer>  © 2026 Copyright: Testing Git</footer>
 
 </body>
 </html>
